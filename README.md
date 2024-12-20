@@ -28,7 +28,7 @@ The primary goal of this project is to segment Amazon customers into distinct gr
 * Segment 2: Young (25-34), low-income females with infrequent purchases (<5/month), and focused on the "Abis Book" category.
 * Segment 3: Young (25-34), moderate-income females with frequent purchases (5-10/month), and primarily purchasing from "Abis Book."
 
-## **EDA & Visualizations**
+## **EDA & Visualizations:**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a83ba587-5d1f-41ce-b147-9223afabb0ba" alt="Elbow" width="45%">
@@ -41,7 +41,7 @@ The primary goal of this project is to segment Amazon customers into distinct gr
 
 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/iqra.naz/viz/AmazonTableauDashboard_17345658902420/Dashboard1?publish=yes)
 
-## ** Business Recommendations:**
+## **Business Recommendations:**
 
 * Segment 1: Target middle-aged females with high income and purchase frequency by promoting bestsellers, audiobooks, and e-readers, and incentivize loyalty with free shipping or early sale access.
 * Segment 2: Appeal to young females with low income through budget-friendly campaigns, book bundles, and “deals under $20,” leveraging Instagram and TikTok for promotion.
